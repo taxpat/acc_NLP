@@ -3,7 +3,7 @@
 
 format: jb-book
 root: intro
-chapters:
-- file: markdown
-- file: notebooks
-- file: markdown-notebooks
+parts: 
+  - caption: Overview
+    chapters:
+    - file: overview/methods_and_objectives
