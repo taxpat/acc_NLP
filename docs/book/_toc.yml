@@ -7,5 +7,5 @@ parts:
   - caption: Overview
     chapters:
     - file: overview/methods_and_objectives
-    - file: overview/data_souces
+    - file: overview/data_sources
     - file: overview/project_background
