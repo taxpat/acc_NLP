@@ -9,7 +9,7 @@ parts:
     - file: overview/methods_and_objectives
     - file: overview/data_sources
     - file: overview/project_background
-  - caption: Simple Example
-  - caption: Primer, with Basic Examples
-  - caption: Modern Methods
-  - caption: Example of Modern Methods
+  # - caption: Simple Example
+  # - caption: Primer, with Basic Examples
+  # - caption: Modern Methods
+  # - caption: Example of Modern Methods
