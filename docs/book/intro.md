@@ -5,7 +5,7 @@ Acc_NLP is meant to be a reference and a tool for individuals seeking to use tex
 
 ## Project Background
 
-I had read a few accounting papers that used natural language processing, a methodology and research area combination that I found interesting. This interest led me to taking a class in text analysis. From week 1, we were to start brainstorming a final project idea—something that could be a useful tool or project. Wanting to be an accounting researcher, I wanted to create something that could support accounting PhDs in their research. With this goal in mind, where was I to begin? 
+I read a few accounting papers that used natural language processing, a methodology and research area combination that I found interesting. This interest led me to taking a class in text analysis. From week 1, we were to start brainstorming a final project idea—something that could be a useful tool or project. Wanting to be an accounting researcher, I wanted to create something that could support accounting PhDs in their research. With this goal in mind, where was I to begin? 
 
 With a limited knowledge of NLP, both in techniques and in use-cases, I began considering broad objectives and potential datasets for accounting research. Of course we have disclosures, 10-k footnotes, and earning announcements and other meeting transcripts, but what other data was out there and what could be done with it?
 
@@ -13,7 +13,7 @@ This question and these circumstances lead to the creation of this project and t
 
 I hope this project will be a support for researchers considering using NLP in their research. I will provide code, training datasets, and thoughtful commentary for researchers to consider in their work. The goal is for researchers to have more confidence and be able to substantially reduce the amount of time it takes to do meaningful text analysis for accounting research.
 
-- Patrick Neyland, Oct. 2023
+-- Patrick Neyland, Oct. 2023
 
 
 
